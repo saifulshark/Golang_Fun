@@ -23,7 +23,7 @@ func main() {
 	const y = 90
 	fmt.Println(y)
 	//y = 100
-	fmt.Println(y)
+	//fmt.Println(y)
 	const z int = 110
 	fmt.Println(z)
 	const k = 120
