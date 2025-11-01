@@ -1,3 +1,3 @@
-module example.com
+module z.com
 
 go 1.24.0

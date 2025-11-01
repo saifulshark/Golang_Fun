@@ -15,6 +15,7 @@ func call() {
 	add(p, a)
 }
 func main() {
+	a := 20
 	call()
 	fmt.Println(a)
 }
